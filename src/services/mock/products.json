@@ -1,15 +1,15 @@
 [
   {
     "id": 73320913,
-    "sku": "6781434916559",
-    "name": "Điện thoại Vivo Y12s - Hàng Chính Hãng",
-    "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/dc/fd/eac572aabcbdaa3d623c4ed32cd7ba7c.jpg",
-    "price": 4290000,
-    "discount_rate": 0,
-    "list_price": 4290000,
+    "sku": "8414562088406",
+    "name": "Hotel de la Coupole - Mgallery",
+    "thumbnail": "https://raw.githubusercontent.com/tuvm/tiki-demo/main/src/services/images/250824549_2129602980520624_4308382941127079593_n.jpg",
+    "price": 990000,
+    "discount_rate": 17,
+    "list_price": 990000,
     "images": [
-      "https://salt.tikicdn.com/cache/280x280/ts/product/d7/dc/fd/eac572aabcbdaa3d623c4ed32cd7ba7c.jpg",
-      "https://salt.tikicdn.com/ts/product/66/8f/27/e1cc29ff7d2e1861a78a41fef6689755.jpg"
+      "https://raw.githubusercontent.com/tuvm/tiki-demo/main/src/services/images/250824549_2129602980520624_4308382941127079593_n.jpg",
+      "https://raw.githubusercontent.com/tuvm/tiki-demo/main/src/services/images/272985269_2204787616335493_2227986647582431574_n.jpg"
     ]
   },
   {

@@ -4,7 +4,7 @@
     "sku": "8414562088406",
     "name": "Hotel de la Coupole - Mgallery",
     "thumbnail": "https://raw.githubusercontent.com/tuvm/tiki-demo/main/src/services/images/250824549_2129602980520624_4308382941127079593_n.jpg",
-    "price": 6499000,
+    "price": 990000,
     "discount_rate": 17
   },
   {
@@ -12,7 +12,7 @@
     "sku": "2006178471561",
     "name": "Phú Quốc InterContinental + Fusion Resort Phú Quốc",
     "thumbnail": "https://raw.githubusercontent.com/tuvm/tiki-demo/main/src/services/images/251533009_2129602967187292_3160649300227728548_n.jpg",
-    "price": 990000,
+    "price": 6499000,
     "discount_rate": 13
   },
   {
