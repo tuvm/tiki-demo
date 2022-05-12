@@ -1,14 +1,14 @@
 [
   {
     "id": "1",
-    "image": "https://salt.tikicdn.com/ts/miniapp/d8/7c/83/5726735cc347e0dc0550139dff08a034.png"
+    "image": "https://raw.githubusercontent.com/tuvm/tiki-demo/main/src/services/images/272985269_2204787616335493_2227986647582431574_n.jpg"
   },
   {
     "id": "2",
-    "image": "https://salt.tikicdn.com/ts/miniapp/b1/3a/04/08d42b48967e555509bdc57bbe03a220.png"
+    "image": "https://raw.githubusercontent.com/tuvm/tiki-demo/main/src/services/images/273050853_2204787546335500_4802883380868589291_n.jpg"
   },
   {
     "id": "3",
-    "image": "https://salt.tikicdn.com/ts/miniapp/d5/e3/f0/9a0480525b5344ebf4c4faceabc046f2.png"
+    "image": "https://raw.githubusercontent.com/tuvm/tiki-demo/main/src/services/images/273702822_2204787523002169_5037334543207246246_n.jpg"
   }
 ]
