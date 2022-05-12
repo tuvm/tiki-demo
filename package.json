@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "tiki": {
+    "appIdentifier": "tu.demo",
+    "buildNumber": 1
+  },
+  "dependencies": {
+    "@tiki.vn/tini-ui": "0.10.0",
+    "query-string": "^7.0.1"
+  }
+}
