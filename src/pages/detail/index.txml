@@ -11,7 +11,7 @@
   
   <view tiki:if="{{product.id}}" class="p-medium bg-white mb-2x-small">
     <header-product product="{{product}}" isLoading="{{isLoading}}"/>
-    <view
+    <!-- <view
       onTap="onSelectColor"
       class="mb-medium border-option">
       <card-select
@@ -28,11 +28,11 @@
         isLoading="{{isLoading}}"
         title="Size"
         description="{{sizeSelected.size}}"/>
-    </view>
+    </view> -->
   </view>
-  <view class="p-medium bg-white mb-2x-small">
+  <!-- <view class="p-medium bg-white mb-2x-small">
     <shipping-info isLoading="{{isLoading}}" />
-  </view>
+  </view> -->
   <view class="p-medium bg-white mb-2x-small">
     <detail-info 
       detail="{{product.detail}}"

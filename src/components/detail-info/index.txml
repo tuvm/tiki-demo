@@ -1,11 +1,11 @@
 <view>
   <view class="mb-small font-bold text-medium">Detail info</view>
 
-  <row-info 
+  <!-- <row-info 
     tiki:for="{{rows}}" 
     isLoading="{{isLoading}}" 
     title="{{item.value}}" 
-    description="{{detail[item.key]}}" />
+    description="{{detail[item.key]}}" /> -->
 
   <view tiki:if="{{isLoading}}">
     <view class="mt-medium skeleton w-full skeleton-paragraph"></view>
