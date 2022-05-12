@@ -88,7 +88,7 @@ Page({
 
   setTitle() {
     my.setNavigationBar({
-      title: 'Shop Name',
+      title: 'Wowtrip VN',
     });
   },
 
