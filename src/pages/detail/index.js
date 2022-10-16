@@ -145,6 +145,6 @@ Page({
   },
 
   onShow() {
-    loadBadgeCart();
+    loadBadgeCart('/assets/images/barcode.png');
   },
 });

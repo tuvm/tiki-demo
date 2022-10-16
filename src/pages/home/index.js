@@ -31,9 +31,9 @@ Page({
     navigateToPDP(product.id);
   },
 
-  onCustomIconEvent(e) {
-    my.navigateTo({ url: 'pages/cart/index' });
-  },
+  // onCustomIconEvent(e) {
+  //   my.navigateTo({ url: 'pages/cart/index' });
+  // },
 
   async loadData() {
     this.setData({
